@@ -33,7 +33,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/150644068-6fb131e1-0fd4-4b0c-a18c-e82675a4e7c6.gif">
+![image](https://user-images.githubusercontent.com/86460997/213256996-c73de088-8595-43d2-80b6-405d86800d83.png)
 </p>
 <br/>
 
